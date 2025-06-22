@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 9c9c432cc57355647b169069e738994f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1738653397428837917
+    second: elefant_low_0
+  - first:
+      213: 505425007195458254
+    second: elefant_low_1
+  - first:
+      213: 3279177431449579443
+    second: elefant_low_2
+  - first:
+      213: 8949968483096019965
+    second: elefant_low_3
+  - first:
+      213: 6849396947147311560
+    second: elefant_low_4
+  - first:
+      213: -8639414483503432271
+    second: elefant_low_5
+  - first:
+      213: -6546736553598021414
+    second: elefant_low_6
+  - first:
+      213: 4599543776911049136
+    second: elefant_low_7
+  - first:
+      213: -1271894282300569905
+    second: elefant_low_8
+  - first:
+      213: 8478456250084270960
+    second: elefant_low_9
+  - first:
+      213: -3814337219966442398
+    second: elefant_low_10
+  - first:
+      213: 2952955516132880571
+    second: elefant_low_11
+  - first:
+      213: 4028882313648231864
+    second: elefant_low_12
+  - first:
+      213: -5874371006948673608
+    second: elefant_low_13
+  - first:
+      213: 1854274818595436010
+    second: elefant_low_14
+  - first:
+      213: -720858241070168278
+    second: elefant_low_15
+  - first:
+      213: 361523765124588465
+    second: elefant_low_16
+  - first:
+      213: 4377080099961648161
+    second: elefant_low_17
+  - first:
+      213: 7565551687846914623
+    second: elefant_low_18
+  - first:
+      213: -3240905337063047616
+    second: elefant_low_19
+  - first:
+      213: 4284519044453093749
+    second: elefant_low_20
+  - first:
+      213: -375957353892429443
+    second: elefant_low_21
+  - first:
+      213: 4841291785739927372
+    second: elefant_low_22
+  - first:
+      213: 2510096878837959909
+    second: elefant_low_23
+  - first:
+      213: 7014201726687034626
+    second: elefant_low_24
+  - first:
+      213: 1825600617322462186
+    second: elefant_low_25
+  - first:
+      213: 1060801229432329080
+    second: elefant_low_26
+  - first:
+      213: 4819995891156594266
+    second: elefant_low_27
+  - first:
+      213: -5374548365768135660
+    second: elefant_low_28
+  - first:
+      213: -699087391615277756
+    second: elefant_low_29
+  - first:
+      213: -7956426465877469419
+    second: elefant_low_30
+  - first:
+      213: -9079805976720552845
+    second: elefant_low_31
+  - first:
+      213: 6744215188668272992
+    second: elefant_low_32
+  - first:
+      213: 2257489934848955140
+    second: elefant_low_33
+  - first:
+      213: 8592597988224631340
+    second: elefant_low_34
+  - first:
+      213: -6247050672369680795
+    second: elefant_low_35
+  - first:
+      213: -2522554830895848979
+    second: elefant_low_36
+  - first:
+      213: -4724064703333737836
+    second: elefant_low_37
+  - first:
+      213: 5672211636799186760
+    second: elefant_low_38
+  - first:
+      213: 5365046595774268728
+    second: elefant_low_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elefant_low_0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 463
+        width: 10
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e954d9d00f02810800000000000000
+      internalID: 1738653397428837917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 507
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca0c7ebd51a30700800000000000000
+      internalID: 505425007195458254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_2
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 483
+        width: 153
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfa705008af18d20800000000000000
+      internalID: 3279177431449579443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_3
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 96
+        width: 413
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df341e99aeca43c70800000000000000
+      internalID: 8949968483096019965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 467
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c94c58db32fd0f50800000000000000
+      internalID: 6849396947147311560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 440
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdb9630d42aa1880800000000000000
+      internalID: -8639414483503432271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 445
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad099b46ac15525a0800000000000000
+      internalID: -6546736553598021414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_7
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 442
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b144a712bcd4df30800000000000000
+      internalID: 4599543776911049136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 429
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6cf9793e2595ee0800000000000000
+      internalID: -1271894282300569905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_9
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 387
+        width: 12
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073a6f5e90789a570800000000000000
+      internalID: 8478456250084270960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 387
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2646956f180c01bc0800000000000000
+      internalID: -3814337219966442398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 267
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb071a085610bf820800000000000000
+      internalID: 2952955516132880571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 359
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b55bda4e1779e730800000000000000
+      internalID: 4028882313648231864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_13
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 336
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b778f361ba0a7ea0800000000000000
+      internalID: -5874371006948673608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_14
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 284
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae535568f15bbb910800000000000000
+      internalID: 1854274818595436010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_15
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 267
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27899fbf3ffef5f0800000000000000
+      internalID: -720858241070168278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3ec1ee2f3640500800000000000000
+      internalID: 361523765124588465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_17
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 251
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12435aff8238ebc30800000000000000
+      internalID: 4377080099961648161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 238
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae8f31d2d3ef860800000000000000
+      internalID: 7565551687846914623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_19
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 225
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e70b954cdf503d0800000000000000
+      internalID: -3240905337063047616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 207
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571d50ede5ba57b30800000000000000
+      internalID: 4284519044453093749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_21
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 215
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71cb8e47c458caf0800000000000000
+      internalID: -375957353892429443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_22
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 200
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f7b079a39bf2340800000000000000
+      internalID: 4841291785739927372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_23
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 186
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec04feefc7a5d220800000000000000
+      internalID: 2510096878837959909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_24
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 149
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dbc1ebe43775160800000000000000
+      internalID: 7014201726687034626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_25
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 153
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb3d39c616d55910800000000000000
+      internalID: 1825600617322462186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_26
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 138
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8739c990919b8be00800000000000000
+      internalID: 1060801229432329080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_27
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 141
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e2b3fb9b014e240800000000000000
+      internalID: 4819995891156594266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 114
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ceb36acb4c965b0800000000000000
+      internalID: -5374548365768135660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_29
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44521d3a8b75c46f0800000000000000
+      internalID: -699087391615277756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_30
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5175bd3c848159190800000000000000
+      internalID: -7956426465877469419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_31
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 106
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c4a10329c0ef180800000000000000
+      internalID: -9079805976720552845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 115
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061dd515bf3489d50800000000000000
+      internalID: 6744215188668272992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_33
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 106
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40311b29227345f10800000000000000
+      internalID: 2257489934848955140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 101
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c228dd1485a0f3770800000000000000
+      internalID: 8592597988224631340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_35
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 101
+        width: 48
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e3a8303840e49a0800000000000000
+      internalID: -6247050672369680795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_36
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 103
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1e1021fb51efcd0800000000000000
+      internalID: -2522554830895848979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 102
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ad4d57e20c07eb0800000000000000
+      internalID: -4724064703333737836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_38
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 102
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847a0465e6eb7be40800000000000000
+      internalID: 5672211636799186760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elefant_low_39
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 103
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8354b802479747a40800000000000000
+      internalID: 5365046595774268728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      elefant_low_0: 1738653397428837917
+      elefant_low_1: 505425007195458254
+      elefant_low_10: -3814337219966442398
+      elefant_low_11: 2952955516132880571
+      elefant_low_12: 4028882313648231864
+      elefant_low_13: -5874371006948673608
+      elefant_low_14: 1854274818595436010
+      elefant_low_15: -720858241070168278
+      elefant_low_16: 361523765124588465
+      elefant_low_17: 4377080099961648161
+      elefant_low_18: 7565551687846914623
+      elefant_low_19: -3240905337063047616
+      elefant_low_2: 3279177431449579443
+      elefant_low_20: 4284519044453093749
+      elefant_low_21: -375957353892429443
+      elefant_low_22: 4841291785739927372
+      elefant_low_23: 2510096878837959909
+      elefant_low_24: 7014201726687034626
+      elefant_low_25: 1825600617322462186
+      elefant_low_26: 1060801229432329080
+      elefant_low_27: 4819995891156594266
+      elefant_low_28: -5374548365768135660
+      elefant_low_29: -699087391615277756
+      elefant_low_3: 8949968483096019965
+      elefant_low_30: -7956426465877469419
+      elefant_low_31: -9079805976720552845
+      elefant_low_32: 6744215188668272992
+      elefant_low_33: 2257489934848955140
+      elefant_low_34: 8592597988224631340
+      elefant_low_35: -6247050672369680795
+      elefant_low_36: -2522554830895848979
+      elefant_low_37: -4724064703333737836
+      elefant_low_38: 5672211636799186760
+      elefant_low_39: 5365046595774268728
+      elefant_low_4: 6849396947147311560
+      elefant_low_5: -8639414483503432271
+      elefant_low_6: -6546736553598021414
+      elefant_low_7: 4599543776911049136
+      elefant_low_8: -1271894282300569905
+      elefant_low_9: 8478456250084270960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

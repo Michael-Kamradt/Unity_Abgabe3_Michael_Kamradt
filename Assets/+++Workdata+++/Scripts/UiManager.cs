@@ -1,55 +1,84 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.SceneManagement; // Hinzugefügt
 
-public class UiManager : MonoBehaviour
+public class UIManager : MonoBehaviour
 {
-    [SerializeField] private TextMeshProUGUI timerText; // TMP Text fÃ¼r den Timer
-    [SerializeField] private GameObject startButton; // Start-Button als Referenz
+    public GameObject losePanel;
+    public GameObject mainMenuPanel;
+    public GameObject winPanel;
+    public GameObject levelPanel;
 
-    private float levelTime = 300f; // Startzeit: 5 Minuten
-    private bool isGameActive = false; // Timer lÃ¤uft nur, wenn true
+    [SerializeField] private TMP_Text cupText; // Textfeld für Cup-Anzeige
+    [SerializeField] private TMP_Text loseCupText; // Textfeld für Cups im LosePanel
+    [SerializeField] private TMP_Text winCupText;  // Textfeld für Cups im WinPanel
+    [SerializeField] private TMP_Text loseTimeText; // Textfeld für Zeit im LosePanel
+    [SerializeField] private TMP_Text winTimeText;  // Textfeld für Zeit im WinPanel
 
-    private void Update()
+    public void Start()
     {
-        if (isGameActive && levelTime > 0f)
-        {
-            levelTime -= Time.deltaTime; // Zeit verringern
-            UpdateTimerUI(); // Anzeige aktualisieren
-        }
-        else if (levelTime <= 0f && isGameActive)
-        {
-            levelTime = 0f;
-            isGameActive = false;
-            Debug.Log("Zeit ist abgelaufen! Game Over!");
-            // Hier kannst du Lost-Screen oder Ã„hnliches aktivieren
-        }
+        ShowMainMenu();
     }
 
-    private void UpdateTimerUI()
+    public void ShowLose(int cupCount, float endTime)
     {
-        // In Minuten, Sekunden und Millisekunden umwandeln
-        int minutes = Mathf.FloorToInt(levelTime / 60f);
-        int seconds = Mathf.FloorToInt(levelTime % 60f);
-        int milliseconds = Mathf.FloorToInt((levelTime * 1000f) % 1000f / 10f); // 2-stellige ms
+        losePanel.SetActive(true);
+        mainMenuPanel.SetActive(false);
+        winPanel.SetActive(false);
+        levelPanel.SetActive(false);
 
-        // Formatierung: MM:SS:MS (MS = 2-stellig)
-        timerText.text = string.Format("{0:00}:{1:00}:{2:00}", minutes, seconds, milliseconds);
+        if (loseCupText != null)
+            loseCupText.text = $"Cups: {cupCount}";
+        if (loseTimeText != null)
+            loseTimeText.text = $"Zeit: {endTime:0.00}s";
     }
 
-    // Wird aufgerufen, wenn der Button geklickt wird
-    public void StartTimer()
+    public void ShowWin(int cupCount, float endTime)
     {
-        isGameActive = true;
-        startButton.SetActive(false); // Button ausblenden, wenn Spiel startet
+        losePanel.SetActive(false);
+        mainMenuPanel.SetActive(false);
+        winPanel.SetActive(true);
+        levelPanel.SetActive(false);
+
+        if (winCupText != null)
+            winCupText.text = $"Cups: {cupCount}";
+        if (winTimeText != null)
+            winTimeText.text = $"Zeit: {endTime:0.00}s";
     }
 
-    // Wird aufgerufen, wenn der Spieler das Ende des Levels erreicht
-    public void StopTimer()
+    public void ShowMainMenu()
     {
-        if (isGameActive)
-        {
-            isGameActive = false; // Timer stoppen
-            Debug.Log("Level geschafft in: " + timerText.text);
-        }
+        losePanel.SetActive(false);
+        mainMenuPanel.SetActive(true);
+        winPanel.SetActive(false);
+        levelPanel.SetActive(false);
+    }
+
+    public void ShowLevel()
+    {
+        losePanel.SetActive(false);
+        mainMenuPanel.SetActive(false);
+        winPanel.SetActive(false);
+        levelPanel.SetActive(true);
+    }
+
+    public void HideAll()
+    {
+        losePanel.SetActive(false);
+        mainMenuPanel.SetActive(false);
+        winPanel.SetActive(false);
+        levelPanel.SetActive(false);
+    }
+
+    public void Restart()
+    {
+        Scene currentScene = SceneManager.GetActiveScene();
+        SceneManager.LoadScene(currentScene.name);
+    }
+
+    public void UpdateCupCount(int count)
+    {
+        if (cupText != null)
+            cupText.text = count.ToString();
     }
 }
